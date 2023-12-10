@@ -1,2 +1,2 @@
 # test-automation
-Odev 1 test automation lesson
+Odev 1 test automation lesson deneme
